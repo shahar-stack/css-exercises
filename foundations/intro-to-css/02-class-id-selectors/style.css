@@ -1,0 +1,19 @@
+.oddNum {
+    background-color: #FF474C;
+}
+
+#two {
+    color: #00a0ff;
+    font-size: 36px;
+}
+
+.oddNum.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #88E788;
+    font-weight: bold;
+    font-size: 24px;
+}
+
